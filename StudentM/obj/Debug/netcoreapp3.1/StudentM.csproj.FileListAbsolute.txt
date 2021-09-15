@@ -1,0 +1,14 @@
+C:\Users\tungl\source\repos\StudentM\StudentM\bin\Debug\netcoreapp3.1\StudentM.exe
+C:\Users\tungl\source\repos\StudentM\StudentM\bin\Debug\netcoreapp3.1\StudentM.deps.json
+C:\Users\tungl\source\repos\StudentM\StudentM\bin\Debug\netcoreapp3.1\StudentM.runtimeconfig.json
+C:\Users\tungl\source\repos\StudentM\StudentM\bin\Debug\netcoreapp3.1\StudentM.runtimeconfig.dev.json
+C:\Users\tungl\source\repos\StudentM\StudentM\bin\Debug\netcoreapp3.1\StudentM.dll
+C:\Users\tungl\source\repos\StudentM\StudentM\bin\Debug\netcoreapp3.1\StudentM.pdb
+C:\Users\tungl\source\repos\StudentM\StudentM\obj\Debug\netcoreapp3.1\StudentM.csproj.AssemblyReference.cache
+C:\Users\tungl\source\repos\StudentM\StudentM\obj\Debug\netcoreapp3.1\StudentM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungl\source\repos\StudentM\StudentM\obj\Debug\netcoreapp3.1\StudentM.AssemblyInfoInputs.cache
+C:\Users\tungl\source\repos\StudentM\StudentM\obj\Debug\netcoreapp3.1\StudentM.AssemblyInfo.cs
+C:\Users\tungl\source\repos\StudentM\StudentM\obj\Debug\netcoreapp3.1\StudentM.csproj.CoreCompileInputs.cache
+C:\Users\tungl\source\repos\StudentM\StudentM\obj\Debug\netcoreapp3.1\StudentM.dll
+C:\Users\tungl\source\repos\StudentM\StudentM\obj\Debug\netcoreapp3.1\StudentM.pdb
+C:\Users\tungl\source\repos\StudentM\StudentM\obj\Debug\netcoreapp3.1\StudentM.genruntimeconfig.cache
